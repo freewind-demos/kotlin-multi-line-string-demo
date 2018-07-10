@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Multi Line String Demo
+=============================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Some special cases in multi line strings.
